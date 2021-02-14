@@ -4,6 +4,7 @@ this project focuses on applying knowledge acquired in the study of software dev
  - typescript
  - node.js
  - express
+ - typeorm
 
 
 
@@ -11,4 +12,5 @@ esse projeto tem como foco aplicar conhecimento adiquiridos no estudo de desenvo
  - typescript
  - node.js
  - express
+ - typeorm
 
