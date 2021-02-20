@@ -5,6 +5,8 @@ this project focuses on applying knowledge acquired in the study of software dev
  - node.js
  - express
  - typeorm
+ - JWT 
+ - Multer
 
 
 
@@ -13,4 +15,6 @@ esse projeto tem como foco aplicar conhecimento adiquiridos no estudo de desenvo
  - node.js
  - express
  - typeorm
+ - JWT
+ - Multer
 
