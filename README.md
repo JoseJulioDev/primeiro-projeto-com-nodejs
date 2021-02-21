@@ -7,6 +7,7 @@ this project focuses on applying knowledge acquired in the study of software dev
  - typeorm
  - JWT 
  - Multer
+ - bcryptjs
 
 
 
@@ -17,4 +18,4 @@ esse projeto tem como foco aplicar conhecimento adiquiridos no estudo de desenvo
  - typeorm
  - JWT
  - Multer
-
+ - bcryptjs
