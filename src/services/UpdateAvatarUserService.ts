@@ -4,6 +4,7 @@ import fs from 'fs' ;
 
 import User from '../models/Users';
 import uploadConfig from '../config/upload';
+import AppError from '../errors/AppError';
 
 interface Request {
     user_id: string;
@@ -17,7 +18,7 @@ class UpdateAvatarUserService {
         const user = await userRepository.findOne(user_id);
 
         if(!user) {
-            throw new Error('Only Autheticated user cam change avatar ');
+            throw new AppError('Only Autheticated user cam change avatar ', 401);
         }
 
         if(user.avatar) {
