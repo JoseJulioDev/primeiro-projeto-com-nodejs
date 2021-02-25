@@ -8,7 +8,7 @@ this project focuses on applying knowledge acquired in the study of software dev
  - JWT 
  - Multer
  - bcryptjs
-
+ - Handling exception
 
 
 esse projeto tem como foco aplicar conhecimento adiquiridos no estudo de desenvolvimento de software onde sera feito o cadastro de usuários e agendamentos.
@@ -19,3 +19,4 @@ esse projeto tem como foco aplicar conhecimento adiquiridos no estudo de desenvo
  - JWT
  - Multer
  - bcryptjs
+ - Handling exception
